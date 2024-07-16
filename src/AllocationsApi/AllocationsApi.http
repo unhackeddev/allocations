@@ -1,0 +1,11 @@
+@AllocationsApi_HostAddress = http://localhost:5167
+
+GET {{AllocationsApi_HostAddress}}/exemplo1/10
+Accept: application/json
+
+###
+
+GET {{AllocationsApi_HostAddress}}/exemplo2/10/teste
+Accept: application/json
+
+###

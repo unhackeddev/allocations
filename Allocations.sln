@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.34929.205
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AllocationsApi", "src\AllocationsApi\AllocationsApi.csproj", "{E0D9B4D5-4F94-4028-87A1-CF805A7E8843}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AllocationsApp", "src\AllocationsApp\AllocationsApp.csproj", "{8AEC2821-F50D-4007-9AFC-9237990EC257}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E0D9B4D5-4F94-4028-87A1-CF805A7E8843}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0D9B4D5-4F94-4028-87A1-CF805A7E8843}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0D9B4D5-4F94-4028-87A1-CF805A7E8843}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0D9B4D5-4F94-4028-87A1-CF805A7E8843}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AEC2821-F50D-4007-9AFC-9237990EC257}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AEC2821-F50D-4007-9AFC-9237990EC257}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AEC2821-F50D-4007-9AFC-9237990EC257}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AEC2821-F50D-4007-9AFC-9237990EC257}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0DE80E43-E5EB-46A4-B960-3F0CC9D44B9F}
+	EndGlobalSection
+EndGlobal
